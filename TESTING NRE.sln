@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TESTING NRE", "TESTING NRE\TESTING NRE.pyproj", "{6E0E2425-DDBD-43D0-BF4F-B99F7F3E6108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E0E2425-DDBD-43D0-BF4F-B99F7F3E6108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0E2425-DDBD-43D0-BF4F-B99F7F3E6108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09628A9-31ED-469A-9BEB-AAC84129AFB9}
+	EndGlobalSection
+EndGlobal
